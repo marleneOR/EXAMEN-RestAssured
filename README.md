@@ -1,1 +1,2 @@
-# EXAMEN-RestAssured
+# QAInnovationLab
+Automation Team / For education purpose
